@@ -1,3 +1,4 @@
 name = "healthcare-persona-cards"
-main = "index.html"
 compatibility_date = "2026-01-03"
+[assets]
+directory = "."
