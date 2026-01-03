@@ -1,4 +1,4 @@
-# Healthcare Personas
+# Healthcare Persona Cards
 
 A modern, interactive website for exploring healthcare personas with animated card dealing effects and detailed persona profiles.
 
