@@ -1,3 +1,4 @@
 name = "healthcare-persona-cards"
 compatibility_date = "2026-01-03"
-main = "index.js"
+[assets]
+directory = "."
